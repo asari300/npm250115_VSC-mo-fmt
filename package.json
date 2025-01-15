@@ -1,0 +1,24 @@
+{
+  "name": "npm250115_vsc-mo-fmt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asari300/npm250115_VSC-mo-fmt.git"
+  },
+  "keywords": [
+    "VSCode",
+    "Modelica",
+    "Formatter"
+  ],
+  "author": "Assari Ngn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asari300/npm250115_VSC-mo-fmt/issues"
+  },
+  "homepage": "https://github.com/asari300/npm250115_VSC-mo-fmt#readme",
+  "description": ""
+}

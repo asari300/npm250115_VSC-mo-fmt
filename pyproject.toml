@@ -1,0 +1,7 @@
+[project]
+name = "npm250115-vsc-mo-fmt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.7"
+dependencies = []
